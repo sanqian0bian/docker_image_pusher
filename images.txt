@@ -1,1 +1,1 @@
-amamiyahotaru/local-arknights:v1.0.3
+mysql:8.0
