@@ -1,1 +1,1 @@
-mysql:8.0
+krmeng/ys:3.4
