@@ -1,1 +1,1 @@
-vitotp/centos7.6
+xhofe/alist:latest
